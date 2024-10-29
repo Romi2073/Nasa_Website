@@ -1,0 +1,56 @@
+.container-date{
+    display: flex;
+   flex-direction: column;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.container-date .search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2%;
+}
+
+h1{
+text-align: center;
+font-size: xx-large;
+font-weight: bolder;
+color: aliceblue;
+}
+
+h2{
+text-align: center;
+font-size: xx-large;
+font-weight: bolder;
+color: aliceblue;
+}
+
+p{
+font-size: x-large;
+font-weight: bold;
+color: #ffffff;
+padding: 5%;
+padding-top: -5%;
+}
+
+input{
+    background-color: rgba(7, 70, 129, 0.767);
+    border-color: red;
+    box-shadow: -4px 2px 2px 1px rgb(245, 244, 244);
+    font-size: larger;
+    font-weight: bolder;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: rgba(7, 70, 129, 0.767);
+    border-color: red;
+    box-shadow: 2px 2px 2px 1px rgb(245, 244, 244);
+    font-size: larger;
+    font-weight: bolder;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+

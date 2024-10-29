@@ -1,0 +1,47 @@
+.saturno {
+    display: flex;
+    align-items: flex-end;
+    margin-top: -28%;
+    margin-left: -4%;
+    width: 30%;
+}
+
+.saturno-image {
+    width: 50%;
+}
+
+.earth {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 20%;
+    margin-left: -8%;
+    width: 40%;
+}
+
+.earth-image {
+    align-items: first baseline;
+    width: 30%;
+
+}
+
+.neo {
+    position: absolute;
+    right: 0px;
+    width: 35rem;
+    padding: 10px;
+    margin-top: -40%;
+    margin-right: -8%;
+}
+
+.neo-image {
+    width: 30%;
+}
+
+.profile{
+    position: absolute;
+    right: 0px;
+    width: 35rem;
+    padding: 10px;
+    margin-top: -15%;
+    margin-right: -8%;
+}

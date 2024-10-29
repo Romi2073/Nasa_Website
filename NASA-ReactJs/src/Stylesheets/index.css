@@ -1,0 +1,17 @@
+body{
+  background-color: #090e2f;
+  margin: auto;
+  padding: auto;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+}
+
+#particle-js{
+  background-color: #090e2f;
+}
+
